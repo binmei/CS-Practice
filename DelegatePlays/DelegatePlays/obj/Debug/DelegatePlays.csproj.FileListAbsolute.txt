@@ -1,0 +1,6 @@
+c:\users\v-bimei\documents\visual studio 2015\Projects\DelegatePlays\DelegatePlays\bin\Debug\DelegatePlays.exe.config
+c:\users\v-bimei\documents\visual studio 2015\Projects\DelegatePlays\DelegatePlays\bin\Debug\DelegatePlays.exe
+c:\users\v-bimei\documents\visual studio 2015\Projects\DelegatePlays\DelegatePlays\bin\Debug\DelegatePlays.pdb
+c:\users\v-bimei\documents\visual studio 2015\Projects\DelegatePlays\DelegatePlays\obj\Debug\DelegatePlays.csprojResolveAssemblyReference.cache
+c:\users\v-bimei\documents\visual studio 2015\Projects\DelegatePlays\DelegatePlays\obj\Debug\DelegatePlays.exe
+c:\users\v-bimei\documents\visual studio 2015\Projects\DelegatePlays\DelegatePlays\obj\Debug\DelegatePlays.pdb

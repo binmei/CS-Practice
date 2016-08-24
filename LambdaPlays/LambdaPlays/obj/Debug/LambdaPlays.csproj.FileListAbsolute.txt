@@ -1,0 +1,5 @@
+c:\users\v-bimei\documents\visual studio 2015\Projects\LambdaPlays\LambdaPlays\bin\Debug\LambdaPlays.exe.config
+c:\users\v-bimei\documents\visual studio 2015\Projects\LambdaPlays\LambdaPlays\bin\Debug\LambdaPlays.exe
+c:\users\v-bimei\documents\visual studio 2015\Projects\LambdaPlays\LambdaPlays\bin\Debug\LambdaPlays.pdb
+c:\users\v-bimei\documents\visual studio 2015\Projects\LambdaPlays\LambdaPlays\obj\Debug\LambdaPlays.exe
+c:\users\v-bimei\documents\visual studio 2015\Projects\LambdaPlays\LambdaPlays\obj\Debug\LambdaPlays.pdb
