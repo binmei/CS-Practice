@@ -1,0 +1,6 @@
+c:\users\bin mei\documents\visual studio 2013\Projects\NthOccurence\NthOccurence\bin\Debug\NthOccurence.exe.config
+c:\users\bin mei\documents\visual studio 2013\Projects\NthOccurence\NthOccurence\bin\Debug\NthOccurence.exe
+c:\users\bin mei\documents\visual studio 2013\Projects\NthOccurence\NthOccurence\bin\Debug\NthOccurence.pdb
+c:\users\bin mei\documents\visual studio 2013\Projects\NthOccurence\NthOccurence\obj\Debug\NthOccurence.csprojResolveAssemblyReference.cache
+c:\users\bin mei\documents\visual studio 2013\Projects\NthOccurence\NthOccurence\obj\Debug\NthOccurence.exe
+c:\users\bin mei\documents\visual studio 2013\Projects\NthOccurence\NthOccurence\obj\Debug\NthOccurence.pdb

@@ -1,0 +1,6 @@
+c:\users\bin mei\documents\visual studio 2013\Projects\FindNLargest\FindNLargest\bin\Debug\FindNLargest.exe.config
+c:\users\bin mei\documents\visual studio 2013\Projects\FindNLargest\FindNLargest\bin\Debug\FindNLargest.exe
+c:\users\bin mei\documents\visual studio 2013\Projects\FindNLargest\FindNLargest\bin\Debug\FindNLargest.pdb
+c:\users\bin mei\documents\visual studio 2013\Projects\FindNLargest\FindNLargest\obj\Debug\FindNLargest.exe
+c:\users\bin mei\documents\visual studio 2013\Projects\FindNLargest\FindNLargest\obj\Debug\FindNLargest.pdb
+C:\Users\Bin Mei\documents\visual studio 2013\Projects\FindNLargest\FindNLargest\obj\Debug\FindNLargest.csprojResolveAssemblyReference.cache
