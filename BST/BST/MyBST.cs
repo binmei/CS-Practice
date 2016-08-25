@@ -58,27 +58,28 @@ namespace BST
             }
         }
 
-        public void PostorderTraversal(Node current)
+        public bool delete(int num)
         {
-            if (current != null)
+            if (root == null)
             {
-                // Recursively print the left and right children
-                PreorderTraversal(current.left);
-                PreorderTraversal(current.right);
-
-                // Output the value of the current node
-                Console.WriteLine(current.data);
+                return false;
             }
+            //case 1: no child
+            //          set parent.left || parent.right == null
+            //case 2: one child
+            //          parent.left == child || parent.right == child
+            //case 3: two children
+            //          parent.right == minimum of right tree
+
+            return false;
         }
+
 
         public void PreorderTraversal(Node current)
         {
             if (current != null)
             {
-                // Output the value of the current node
-                Console.WriteLine(current.data);
-
-                // Recursively print the left and right children
+                Console.Write(current.data + " ");
                 PreorderTraversal(current.left);
                 PreorderTraversal(current.right);
             }
@@ -92,31 +93,68 @@ namespace BST
                 InorderTraversal(current.left);
 
                 // Output the value of the current node
-                Console.WriteLine(current.data);
+                Console.Write(current.data + " ");
 
                 // Visit the right child...
                 InorderTraversal(current.right);
             }
         }
 
+        public void PostorderTraversal(Node current)
+        {
+            if (current != null)
+            {
+                // Recursively print the left and right children
+                PreorderTraversal(current.left);
+                PreorderTraversal(current.right);
+
+                // Output the value of the current node
+                Console.Write(current.data + " ");
+            }
+        }
+
         public void printTreeBFS()
         {
-            Queue<int> q = new Queue<int>();
+            Queue<Node> q = new Queue<Node>();
             if (this.root != null)
             {
-                q.Enqueue(root.data);
+                q.Enqueue(root);
             }
-            while (this.size >= 0)
+            while (this.size > 0)
             {
-                int tempNum = q.Dequeue();
-                Console.Write(tempNum);
-                if (root.left != null)
+                Node tempNode = q.Dequeue();
+                Console.Write("{0} ", tempNode.data);
+                this.size--;
+                if (tempNode.left != null)
                 {
-                    q.Enqueue(root.left.data);
+                    q.Enqueue(tempNode.left);
                 }
-                else if(root.right != null)
+                if(tempNode.right != null)
                 {
-                    q.Enqueue(root.right.data);
+                    q.Enqueue(tempNode.right);
+                }
+            }
+        }
+
+        public void pirntTreeDFS()
+        {
+            Stack<Node> s = new Stack<Node>();
+            if (this.root != null)
+            {
+                s.Push(root);
+            }
+            while (this.size > 0)
+            {
+                Node tempNode = s.Pop();
+                Console.Write("{0} ", tempNode.data);
+                this.size--;
+                if (tempNode.right != null)
+                {
+                    s.Push(tempNode.right);
+                }
+                if (tempNode.left != null)
+                {
+                    s.Push(tempNode.left);
                 }
             }
         }
