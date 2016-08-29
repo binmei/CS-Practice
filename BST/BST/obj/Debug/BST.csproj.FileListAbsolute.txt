@@ -9,3 +9,6 @@ C:\Users\Bin Mei\Documents\GitHub\CS-Practice\BST\BST\bin\Debug\BST.exe
 C:\Users\Bin Mei\Documents\GitHub\CS-Practice\BST\BST\bin\Debug\BST.pdb
 C:\Users\Bin Mei\Documents\GitHub\CS-Practice\BST\BST\obj\Debug\BST.exe
 C:\Users\Bin Mei\Documents\GitHub\CS-Practice\BST\BST\obj\Debug\BST.pdb
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\BST\BST\bin\Debug\BST.exe.config
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\BST\BST\obj\Debug\BST.exe
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\BST\BST\obj\Debug\BST.pdb
