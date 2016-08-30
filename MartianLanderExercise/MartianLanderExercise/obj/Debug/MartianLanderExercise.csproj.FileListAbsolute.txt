@@ -1,1 +1,7 @@
 c:\users\v-bimei\documents\visual studio 2015\Projects\MartianLanderExercise\MartianLanderExercise\bin\Debug\MartianLanderExercise.exe.config
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\MartianLanderExercise\MartianLanderExercise\bin\Debug\MartianLanderExercise.exe.config
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\MartianLanderExercise\MartianLanderExercise\bin\Debug\MartianLanderExercise.exe
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\MartianLanderExercise\MartianLanderExercise\bin\Debug\MartianLanderExercise.pdb
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\MartianLanderExercise\MartianLanderExercise\obj\Debug\MartianLanderExercise.csprojResolveAssemblyReference.cache
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\MartianLanderExercise\MartianLanderExercise\obj\Debug\MartianLanderExercise.exe
+C:\Users\v-bimei\Documents\GitHub\CS-Practice\MartianLanderExercise\MartianLanderExercise\obj\Debug\MartianLanderExercise.pdb
